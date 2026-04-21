@@ -1,4 +1,4 @@
-# Exercício Beecrowd 1149
+# Exercício Beecrowd 1173
 
 Programa que lê um valor coloca o valor lido na primeira posição de um vetor N[10].
 Em cada posição subsequente, coloque o dobro do valor da posição anterior
